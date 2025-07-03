@@ -8,6 +8,7 @@ import CreatorClinic from "../components/CreatorClinic";
 import TeamsPage from "../components/TeamsPage";
 import AboutImg from "../components/AboutImg";
 import DoctorsPage from "../components/DoctorsPage";
+import DoctorsPage2 from "../components/DoctorsPage2";
 
 const HomePage = () => {
   return (
@@ -21,6 +22,7 @@ const HomePage = () => {
       <TeamsPage />
       <AboutImg />
       <DoctorsPage/>
+      <DoctorsPage2/>
     </>
   );
 };
