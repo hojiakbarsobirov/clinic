@@ -4,7 +4,7 @@ const HeaderPage = () => {
   return (
     <>
       <div className="bg-gray-100 w-full h-screen xl:h-[86vh] flex justify-center items-center">
-        <div className=" bg-[url('./background-img.png')] relative left-0 xl:left-20 w-full xl:w-[70%] h-[50%] xl:h-[100%] bg-cover bg-center bg-no-repeat">
+        <div className=" bg-[url('/background-img.png')] relative left-0 xl:left-20 w-full xl:w-[70%] h-[50%] xl:h-[100%] bg-cover bg-center bg-no-repeat">
           <div className=" w-full h-full flex justify-between items-center relative">
             <div className="relative right-0 xl:right-44 bottom-36 xl:top-0 gap-3 w-full h-full flex flex-col xl:flex-col justify-between xl:justify-center">
               <div className="flex flex-col justify-center xl:justify-start items-center xl:items-start">
